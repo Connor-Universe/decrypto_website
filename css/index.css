@@ -1,0 +1,20 @@
+div.section-new{
+    background-image: url("../home/images/pic13.jpg");
+    background-size: cover;
+    width: 100%;
+    min-height: 100vh;
+    padding-top: 40vh;
+}
+
+div.section-new h1.title{
+    color: white;
+    text-shadow: 5px 5px 5px black;
+}
+div.section-new p{
+    color: white;
+    text-shadow: 5px 5px 5px black;
+}
+section.banner-section div.container{
+    margin-top: -200px;
+}   
+
